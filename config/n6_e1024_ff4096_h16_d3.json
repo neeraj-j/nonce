@@ -1,0 +1,14 @@
+{
+        "ELAYERS": 6,
+        "DLAYERS": 6,
+        "EMBDINGS": 768,
+        "HEADS": 12,
+        "DROP": 0.3,
+        "FF": 3072,
+        "STEPS": 610,
+        "LR": 0.0001,
+	"TEND": 50000,
+        "IBYTES": 4,
+        "OVOCAB": 2
+}
+
